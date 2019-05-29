@@ -14,8 +14,10 @@
 
 ```shell
 npm install react-native-crosswalk-do --save
-mkdir android/app/libs
-cp node_modules/react-native-crosswalk-do/libs/xwalk_core_library-22.52.561.4.aar android/app/libs/
+
+node_modules/react-native-webview-crosswalk/libs/xwalk_core_library-23.53.589.4-arm.aar 
+to your 
+android/app/libs
 ```
 
 ### Include module in your Android project
