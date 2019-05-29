@@ -1,6 +1,6 @@
 'use strict';
 
-var version = '22.52.561.4';
+var version = '23.53.589.4';
 var beta    = '';
 
 var exec = require('child_process').exec;

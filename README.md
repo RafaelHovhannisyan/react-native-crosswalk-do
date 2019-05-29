@@ -52,8 +52,8 @@ allprojects {
 ...
 dependencies {
   ...
-  compile (name: "xwalk_core_library-22.52.561.4", ext: "aar")     // <--- add this line
-  compile project(':CrosswalkWebView')                             // <--- add this line
+  implementation (name: "xwalk_core_library-23.53.589.4-arm", ext: "aar")     // <--- add this line
+  implementation project(':CrosswalkWebView')                             // <--- add this line
 }
 ```
 
