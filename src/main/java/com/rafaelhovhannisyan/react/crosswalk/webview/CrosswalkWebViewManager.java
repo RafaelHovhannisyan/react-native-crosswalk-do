@@ -1,4 +1,4 @@
-package com.rafael.hovhannisyan.react.crosswalk.webview;
+package com.rafaelhovhannisyan.react.crosswalk.webview;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

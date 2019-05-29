@@ -1,4 +1,4 @@
-package com.rafael.hovhannisyan.react.crosswalk.webview;
+package com.rafaelhovhannisyan.react.crosswalk.webview;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
