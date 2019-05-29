@@ -15,7 +15,7 @@
 ```shell
 npm install react-native-crosswalk-do --save
 
-node_modules/react-native-webview-crosswalk/libs/xwalk_core_library-23.53.589.4-arm.aar 
+node_modules/react-native-crosswalk-do/libs/xwalk_core_library-23.53.589.4-arm.aar 
 to your 
 android/app/libs
 ```
@@ -62,7 +62,7 @@ dependencies {
 * Register package, sdd code into MainApplication.java:
 
 ```java
-import com.rafael.hovhannisyan.react.crosswalk.webview.CrosswalkWebViewPackage;    // <--- add this line
+import com.rafaelhovhannisyan.react.crosswalk.webview.CrosswalkWebViewPackage;    // <--- add this line
 
 public class MainApplication extends Application implements ReactApplication {
   ......
