@@ -1,0 +1,40 @@
+{
+    "name":             "react-native-webview-crosswalk-do",
+    "version":          "1.0.0",
+    "description":      "Crosswalk's WebView for React Native on Android (0.59.8+)",
+    "scripts":          {
+        "postinstall": "node get_library.js",
+        "lint":        "eslint ."
+    },
+    "repository":       {
+        "type": "git",
+        "url":  "https://github.com/RafaelHovhannisyan/react-native-crosswalk-do.git"
+    },
+    "keywords":         [
+        "react",
+        "native",
+        "react native",
+        "webview",
+        "crosswalk",
+        "xwalk",
+        "android"
+    ],
+    "author":           "Rafayel Hovhannsiyan <rafael.hovhannisyan@live.com>",
+    "license":          "MIT",
+    "bugs":             {
+        "url": "https://github.com/RafaelHovhannisyan/react-native-crosswalk-do/issues"
+    },
+    "homepage":         "https://github.com/RafaelHovhannisyan/react-native-crosswalk-do",
+    "peerDependencies": {
+        "react":        ">=16.8.3",
+        "react-native": ">=0.59.8"
+    },
+    "dependencies":     {
+        "node-wget": "0.4.2"
+    },
+    "devDependencies":  {
+        "babel-eslint":        "6.1.2",
+        "eslint":              "3.2.2",
+        "eslint-plugin-react": "6.0.0"
+    }
+}
