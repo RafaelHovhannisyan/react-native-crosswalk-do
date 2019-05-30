@@ -1,6 +1,6 @@
 {
   "name": "react-native-crosswalk-do",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Crosswalk's WebView for React Native on Android (0.59.8+)",
   "scripts": {
     "postinstall": "node get_library.js",
