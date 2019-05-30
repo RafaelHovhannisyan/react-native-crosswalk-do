@@ -1,6 +1,6 @@
 # react-native-webview-crosswalk-do
 
-#### Forked from [jordansexton](https://github.com/jordansexton). Not contributed for two years. Some bugs fixed and added dinamic build.gradle(which taking android compile and sdk versions from ext object)
+#### Forked from [jordansexton](https://github.com/jordansexton). Not contributed for two years. Some bugs fixed and added dynamic build.gradle(which taking android compile and sdk versions from ext object)
 
 [![npm licence](http://img.shields.io/npm/l/react-native-webview-crosswalk.svg?style=flat-square)](https://npmjs.org/package/react-native-webview-crosswalk "View this project on npm")
 
